@@ -1,4 +1,3 @@
-
 git clone https://github.com/YOUR-GITHUB-USERNAME/my-first-project.git
 cd my-first-project
 
